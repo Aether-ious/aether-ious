@@ -15,9 +15,9 @@ My interests pull me toward the frontier—places where the problem isn't fully 
 - Strong grounding in risk thinking, decision systems, and practical constraints of lending or Anaytics.
 
 **Machine Learning & Applied Modeling**
-- Regression, classification, clustering, time-series.
-- LSTM/GRU work for stock data and sequential modeling.
-- Explainability research (XAI) for neural architectures.
+- Regression, classification, clustering, .
+- LSTM/GRU time-series/sequential modeling for macroeconomic modelling region wise.
+- Explainability research (XAI).
 
 **Data Engineering & ML Engineering**
 - SQL, Python, SAS.
@@ -45,7 +45,7 @@ My interests pull me toward the frontier—places where the problem isn't fully 
 **Languages:** Python, SQL, SAS  
 **ML:** XGBoost, LightGBM, Random Forests, Scikit-learn, GRU/LSTM  
 **Data:** Pandas, NumPy
-**Other Interests:** complexity, causality, economics, philosophy, audio, and systems thinking
+**Other Interests:** complexity, causality, economics, philosophy, and systems thinking
 
 ---
 
