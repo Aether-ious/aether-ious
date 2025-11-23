@@ -12,7 +12,7 @@ My interests pull me toward the frontier—places where the problem isn't fully 
 **Risk Modeling & Credit Analytics**
 - Scorecards for collections, acquisitions, and behavior.
 - Variable selection, documentation, model monitoring, UAT, and production deployment.
-- Strong grounding in risk thinking, decision systems, and practical constraints of lending.
+- Strong grounding in risk thinking, decision systems, and practical constraints of lending or Anaytics.
 
 **Machine Learning & Applied Modeling**
 - Regression, classification, clustering, time-series.
